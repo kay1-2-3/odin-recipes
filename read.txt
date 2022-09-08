@@ -1,0 +1,2 @@
+This file is supposed to explain what is going on in the odin-recipes repository.
+Within this repository, I'm going to make a project which is going to contain an index file that is going to have links to different recipes. The goal is to make a webpage which contains different recipes. All I'm doing here in read.txt is explaining what is going to happen.
